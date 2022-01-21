@@ -1,0 +1,6 @@
+package com.infinityx.flutter_challenge
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
