@@ -1,2 +1,2 @@
 //Application titles
-var homeTitle = "Las mejores películas";
+var homeTitle = "Las mejores películas del momento";
